@@ -22,3 +22,12 @@ things here
 
 - =Day= is the day of week
 - =Quty= is the quantity for this day
+
+** Raw Table
+#+BEGIN_EXAMPLE
+| Day | Quty |
+|-----+------|
+| Mon | 123  |
+| Tue |  75  |
+| Wed | 166  |
+#+END_EXAMPLE
