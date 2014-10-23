@@ -1,4 +1,9 @@
-* sandbox
+# -*- mode: org; -*-
+#+TITLE: sandbox.el -- Sand Box
+#+OPTIONS: ^:{} author:Me toc:nil
+
+
+* The Sandbox
 
 A sandox for me to get /familiar/ with *GitHub*
 Will it work ?
@@ -7,5 +12,13 @@ Will it work ?
 - three
 - four
 
-* 2nd header
+** Sub-header
 things here
+| Day | Quty |
+|-----+------|
+| Mon | 123  |
+| Tue |  75  |
+| Wed | 166  |
+
+- =Day= is the day of week
+- =Quty= is the quantity for this day
