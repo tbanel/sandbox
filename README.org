@@ -1,7 +1,15 @@
 # -*- mode: org; -*-
 #+TITLE: sandbox.el -- Sand Box
 #+OPTIONS: ^:{} author:Me toc:nil
+#+ATTR_ORG: :width 50
+#+ATTR_HTML: width="50px"
+#+ATTR_LATEX: :scale 0.8
 
+* Image
+
+ #+html: <p align="center"><img src="https://github.com/tbanel/uniline/blob/main/images/decision-tree.png" width=212 /></p>
+
+[[https://github.com/tbanel/uniline/blob/main/images/decision-tree.png]]
 
 * The Sandbox
 
@@ -31,3 +39,4 @@ things here
 | Tue |  75  |
 | Wed | 166  |
 #+END_EXAMPLE
+
