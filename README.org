@@ -5,7 +5,7 @@
 #+ATTR_HTML: width="50px"
 #+ATTR_LATEX: :scale 0.8
 
-* Image
+* Image <<<image>>>
 
  #+html: <p align="center"><img src="https://github.com/tbanel/uniline/blob/main/images/decision-tree.png" width=212 /></p>
 
@@ -27,6 +27,8 @@ things here
 | Mon | 123  |
 | Tue |  75  |
 | Wed | 166  |
+
+ see [[image][image]].
 
 - =Day= is the day of week
 - =Quty= is the quantity for this day
