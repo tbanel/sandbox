@@ -5,13 +5,30 @@
 #+ATTR_HTML: width="50px"
 #+ATTR_LATEX: :scale 0.8
 
+* Table of Contents
+:PROPERTIES:
+:TOC:      :include siblings :depth 1 :force () :ignore (this) :local (nothing)
+:CUSTOM_ID: table-of-contents
+:END:
+
+:CONTENTS:
+- [[#image-image][Image <<<image>>>]]
+- [[#the-sandbox][The Sandbox]]
+:END:
+
 * Image <<<image>>>
+:PROPERTIES:
+:CUSTOM_ID: image-image
+:END:
 
  #+html: <p align="center"><img src="https://github.com/tbanel/uniline/blob/main/images/decision-tree.png" width=212 /></p>
 
 [[https://github.com/tbanel/uniline/blob/main/images/decision-tree.png]]
 
 * The Sandbox
+:PROPERTIES:
+:CUSTOM_ID: the-sandbox
+:END:
 
 A sandox for me to get /familiar/ with *GitHub*
 Will it work ?
@@ -29,6 +46,7 @@ things here
 | Wed | 166  |
 
  see [[image][image]].
+ see [[#image-image][Image]]
 
 - =Day= is the day of week
 - =Quty= is the quantity for this day
